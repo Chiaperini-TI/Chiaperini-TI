@@ -1,6 +1,6 @@
 # Chiaperini 🌟
 
-<img src="markdown/banner.png" width="100%">
+<img src="banner.png" width="100%">
 
 ## Missão 🚀
 
